@@ -1,4 +1,7 @@
-# untitled
+# ref-vue
+
+This is a minimal Vue.js reference SPA project used to
+compare the same SPA implemented in React.
 
 ## Project setup
 ```
